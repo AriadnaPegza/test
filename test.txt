@@ -1,1 +1,2 @@
 Acesta este un file text simplu
+Modificarea fisierului a fost executata cu success.
